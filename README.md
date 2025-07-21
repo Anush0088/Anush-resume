@@ -1,2 +1,2 @@
-# Anush-resume
+# Anush-Resume
 Resume of Anush Karanapu
